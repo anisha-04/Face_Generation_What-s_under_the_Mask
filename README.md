@@ -1,5 +1,6 @@
 # Face_Generation_What-s_under_the_Mask
 
+<img src="https://github.com/anisha-04/IOS-Development/blob/main/GIF/project-1.PNG" />
 
 In this project, our ideal goal is to take images of someone wearing a mask and replace the mask with an accurate representation of their actual face. We hope to have a high resolution output image that would be believable to the untrained eye. We would also like to use a variety of data to train our model. Faces are very unique and we would like to have a very general output.
 
